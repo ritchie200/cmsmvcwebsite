@@ -1,0 +1,148 @@
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\csc.exe
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\vbc.exe
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.dll.config
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\CmsShoppingCart.pdb
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Antlr3.Runtime.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Helpers.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Mvc.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Optimization.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Razor.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Razor.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\WebGrease.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Helpers.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Mvc.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Optimization.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.Razor.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\System.Web.WebPages.Razor.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Antlr3.Runtime.pdb
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\Newtonsoft.Json.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojResolveAssemblyReference.cache
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.xml
+c:\users\voja\documents\visual studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Users\Voja\Documents\Visual Studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\PagedList.dll
+C:\Users\Voja\Documents\Visual Studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.dll
+C:\Users\Voja\Documents\Visual Studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\PagedList.xml
+C:\Users\Voja\Documents\Visual Studio 2015\Projects\CmsShoppingCart\CmsShoppingCart\bin\PagedList.Mvc.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\csc.exe
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\vbc.exe
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\CmsShoppingCart.dll.config
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\CmsShoppingCart.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\CmsShoppingCart.pdb
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\Antlr3.Runtime.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\EntityFramework.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\Newtonsoft.Json.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\PagedList.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\PagedList.Mvc.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.Helpers.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.Mvc.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.Optimization.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.Razor.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.Razor.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\WebGrease.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\EntityFramework.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\PagedList.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\PagedList.Mvc.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.Helpers.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.Mvc.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.Optimization.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.Razor.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.Razor.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\Antlr3.Runtime.pdb
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\bin\Newtonsoft.Json.xml
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojAssemblyReference.cache
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CoreCompileInputs.cache
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CopyComplete
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
+J:\Workspaces\CMSMVCKart\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\csc.exe
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\System.Collections.Immutable.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\vbc.exe
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\roslyn\VBCSCompiler.exe.config
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\CmsShoppingCart.dll.config
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\CmsShoppingCart.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\CmsShoppingCart.pdb
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\Antlr3.Runtime.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\EntityFramework.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\Newtonsoft.Json.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\PagedList.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\PagedList.Mvc.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.Helpers.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.Mvc.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.Optimization.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.Razor.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.Razor.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\WebGrease.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\EntityFramework.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\PagedList.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\PagedList.Mvc.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.Helpers.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.Mvc.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.Optimization.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.Razor.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.Deployment.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\System.Web.WebPages.Razor.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\Antlr3.Runtime.pdb
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\bin\Newtonsoft.Json.xml
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojAssemblyReference.cache
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CoreCompileInputs.cache
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CopyComplete
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
+C:\Own\29MayGitHubIntegration\CMSMVC\CMSMVCKart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
